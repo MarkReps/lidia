@@ -897,12 +897,12 @@ body {
 }
 .item-reviews__name {
   color: #4475f2;
-  letter-spacing: 0.2;
+  letter-spacing: 0.0125rem;
   line-height: 1.875; /* 30/16 */
 }
 .item-reviews__work {
   color: #181e4b;
-  letter-spacing: 0.2;
+  letter-spacing: 0.0125rem;
   line-height: 1.875; /* 30/16 */
 }
 

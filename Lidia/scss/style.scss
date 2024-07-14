@@ -702,7 +702,7 @@ body {
 
     &__name {
         color: $primaryColor;
-        letter-spacing: 0.2;
+        letter-spacing: toRem(0.2);
         line-height: 1.875; /* 30/16 */
     }
 
@@ -710,7 +710,7 @@ body {
 
     &__work {
         color: $headingColor;
-        letter-spacing: 0.2;
+        letter-spacing: toRem(0.2);
         line-height: 1.875; /* 30/16 */
     }
 }
